@@ -1,1 +1,1 @@
-# pill_dispenser_manager
+# PillDispenserManager
